@@ -1,1 +1,9 @@
-
+body{
+  background-color:tan;}
+.title{
+  font-size: 30px;
+  color:navy;
+}  
+.item{
+  color: #D31616;
+}
